@@ -1,7 +1,7 @@
 ## Hi!! I'm a Ha-rit Kumsan, call me Fluk, This is my Profile!!
 
 - 🌱 I’m currently learning everything and Be everything 🤣
-- 🥅 2022 Goals: Learn more about Golang NodeJS Python and K8
+- 🥅 2022 Goals: Learn more about Golang Docker and K8
 - 😻 Interest in Sotfware Engineer Backend Developer DevOps 
 - ⚡ Fun fact: I love to watch animes and play games
 
